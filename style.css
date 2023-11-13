@@ -1,0 +1,27 @@
+head {display: none;}
+
+* {text-align: center; display: inline-block; border-radius: 10px;}
+    
+.everything {font-family: Helvetica, Arial, sans-serif; font-weight: bold; 
+    color: black; background-color: aquamarine; height: 500px; width: 500px;} 
+    
+.topper {margin: 20px; background-color: cornflowerblue; width: 400px; 
+    height: 100px; padding: 25px}
+
+.first {width: 150px; height: 20px;
+    padding: 25px; background-color: 
+    #3C8FB1;}
+
+.second {height: 20px; width: 150px; padding: 25px;  
+    background-color: #2FA8D8; margin-right: 100px; margin-top: -300px;}
+
+.third {height: 20px; width: 150px; padding: 25px;  
+    background-color: #4EC8FA; margin-right: 200px; margin-top: -300px;}
+
+.meat {margin: 20px; background-color: cornflowerblue; width: 300px; 
+    height: 50px; padding: 25px; padding-bottom: 40px;}
+
+.veg {text-align: left; width: 300px; padding: 15px; font-size: medium;
+    font-weight: normal; background-color: #CEEFFC;}
+
+.pix {margin-bottom: 50px;}
